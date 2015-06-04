@@ -1,6 +1,10 @@
 ##Codebook for "tidy.data.txt"
 ####Description
-Tidy.data.txt was created from the "Human Activity Recognition Using Smartphones Dataset, Version 1.0" from www.smartlab.ws. Tidy.data.txt is based on the measurements on the mean and standard deviation for each measurement from the original dataset. For each of these variables, the average for each activity and each subject were calculated.
+Tidy.data.txt was created from the "Human Activity Recognition Using Smartphones Dataset, Version 1.0" from www.smartlab.ws.
+ A full description is available at the site where the original data was obtained:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+
+Tidy.data.txt is based on the measurements on the mean and standard deviation for each measurement from the original dataset. For each of these variables, the average for each activity and each subject were calculated.
 ####Variables
  [1] "activity"
  
