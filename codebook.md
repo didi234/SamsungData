@@ -5,7 +5,7 @@ Tidy.data.txt was created from the "Human Activity Recognition Using Smartphones
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 Tidy.data.txt is based on the measurements on the mean and standard deviation from the original dataset. For each of these variables, the average for each activity and each subject were calculated.
-####Variables
+####Content of "tidy.data.txt"
 [1] "activity"
 Activity performed during the experiment by one of the persons. The 6 activities include:
 WALKING
