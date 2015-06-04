@@ -2,41 +2,41 @@
 ####Description
 Tidy.data.txt was created from the "Human Activity Recognition Using Smartphones Dataset, Version 1.0" from www.smartlab.ws.
  A full description is available at the site where the original data was obtained:
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 Tidy.data.txt is based on the measurements on the mean and standard deviation from the original dataset. For each of these variables, the average for each activity and each subject were calculated.
 ####Content of "tidy.data.txt"
 [1] "activity"
-Activity performed during the experiment by one of the persons. The 6 activities include:
-WALKING
-WALKING_UPSTAIRS
-WALKING_DOWNSTAIRS
-SITTING
-STANDING
-LAYING
+Activity performed during the experiment by one of the persons. The 6 activities include:  
+WALKING  
+WALKING_UPSTAIRS  
+WALKING_DOWNSTAIRS  
+SITTING  
+STANDING  
+LAYING  
  
-[2] "subject" 
-The subject performing during the experiment. Integer values from 1 to 30
+[2] "subject"  
+Subject performing during the experiment. Integer values from 1 to 30
  
-[3] to [68]
-The average of the mean and standard deviation of following measurements, for each activity and each subject:
-tBodyAcc-XYZ
-tGravityAcc-XYZ
-tBodyAccJerk-XYZ
-tBodyGyro-XYZ
-tBodyGyroJerk-XYZ
-tBodyAccMag
-tGravityAccMag
-tBodyAccJerkMag
-tBodyGyroMag
-tBodyGyroJerkMag
-fBodyAcc-XYZ
-fBodyAccJerk-XYZ
-fBodyGyro-XYZ
-fBodyAccMag
-fBodyAccJerkMag
-fBodyGyroMag
-fBodyGyroJerkMag
+[3] to [68]  
+Average of the mean and standard deviation of following measurements, for each activity and each subject:  
+tBodyAcc-XYZ  
+tGravityAcc-XYZ  
+tBodyAccJerk-XYZ  
+tBodyGyro-XYZ  
+tBodyGyroJerk-XYZ  
+tBodyAccMag  
+tGravityAccMag  
+tBodyAccJerkMag  
+tBodyGyroMag  
+tBodyGyroJerkMag  
+fBodyAcc-XYZ  
+fBodyAccJerk-XYZ  
+fBodyGyro-XYZ  
+fBodyAccMag  
+fBodyAccJerkMag  
+fBodyGyroMag  
+fBodyGyroJerkMag  
 
  [3] "tBodyAcc-mean()-X"          
  [4] "tBodyAcc-mean()-Y"          
