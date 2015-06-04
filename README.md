@@ -13,6 +13,7 @@ The file you are reading
 Codebook describing *tidy.data.txt*
 
 ##run_analysis.R  
+**IMPORTANT: To run the code, the "UCI HAR Dataset" folder must be in your working directory**
 R-code to create the tidy data subset (*tidy.data.txt*) in following steps:  
 * Read train and test datafiles into R using *read.table* (data, activity label and subject files)
 * Combine test data with activity labels and subjects using *cbind*
@@ -31,6 +32,6 @@ Tidy data set as requested in point 5 following the tidy data principles:
 * Each different observation of that variable in a different row  
 
 For further description of tidy.data.txt please refer to codebook.md
-To read content from *tidy.data.txt* into R please use the following code in order to preserve column names with brackets:  
+To read *tidy.data.txt* into R please use the following code in order to preserve column names with brackets:  
 **data <- read.table("tidy.data.txt", header = T, check.names = F)**
 
