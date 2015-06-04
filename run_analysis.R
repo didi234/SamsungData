@@ -1,7 +1,4 @@
-## Set working directory
-setwd(paste0("C:/Users/Aditya Lukas/Desktop/Data science specialization",
-             "/3 Getting and Cleaning Data/Assignment"))
-
+## IMPORTANT: The "UCI HAR Dataset" folder must be in your working directory
 
 ## Read "train" datafiles
 path <- "./UCI HAR Dataset/train/"
