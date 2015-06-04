@@ -6,7 +6,7 @@ Tidy.data.txt was created from the "Human Activity Recognition Using Smartphones
 
 Tidy.data.txt is based on the measurements on the mean and standard deviation from the original dataset. For each of these variables, the average for each activity and each subject were calculated.
 ####Content of "tidy.data.txt"
-[1] "activity"
+[1] "activity"  
 Activity performed during the experiment by one of the persons. The 6 activities include:  
 WALKING  
 WALKING_UPSTAIRS  
@@ -98,10 +98,10 @@ fBodyGyroJerkMag
 [60] "fBodyGyro-std()-Z"          
 [61] "fBodyAccMag-mean()"         
 [62] "fBodyAccMag-std()"          
-[63] "fBodyBodyAccJerkMag-mean()" 
+[63] "fBodyBodyAccJerkMag-mean()"  
 [64] "fBodyBodyAccJerkMag-std()"  
 [65] "fBodyBodyGyroMag-mean()"    
 [66] "fBodyBodyGyroMag-std()"     
-[67] "fBodyBodyGyroJerkMag-mean()"
-[68] "fBodyBodyGyroJerkMag-std()"
+[67] "fBodyBodyGyroJerkMag-mean()"  
+[68] "fBodyBodyGyroJerkMag-std()"  
  
